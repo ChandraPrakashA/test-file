@@ -1,0 +1,18 @@
+Spring basics:
+=============
+05/10
+	- Spring tutorial -> https://www.youtube.com/watch?v=If1Lw4pLLEo
+	- spring.io for official docs guides
+	- spring core annotations
+		- Component
+		- ComponentScan
+		- Autowired
+		- Configuration
+		- Bean
+		- Primary
+		- Qualifier
+	- ApplicationContext
+		- XmlPathApplicationContext
+		- AnnotaionConfigApplicationContext
+			- getBean()
+	- Spring boot tutorial -> https://www.youtube.com/watch?v=Ch163VfHtvA&list=PLsyeobzWxl7oA8QOlMtQsRT_I7Rx2hoX4
